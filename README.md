@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evallow
-- 👀 I’m interested in IoT, tiny computing, IoT cybersecurity, tools, hacking for almost newbies
+- 👀 I’m interested in IoT, tiny computing, SDR, IoT cybersecurity, tools, hacking for almost newbies
 - 🌱 I’m currently learning Python (always more)
 - 💞️ I’m looking to collaborate on STEM Educational 
 - 📫 How to reach me: http://linkedin.com/in/erik-vallow
